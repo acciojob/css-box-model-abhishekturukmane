@@ -1,19 +1,13 @@
 
 /* Your CSS Code here. */
-.content{
-	border:1px solid black;
-	width:300px;
-	
+*{
+	margin:0px;
+	padding:0px;
 }
-.padding{
+div{
 	background:lightblue;
 	padding:50px;
-}
-.border{
-	background:blue;
 	border:15px solid blue;
+	width:300px;
 	margin:20px;
-}
-.margin{
-	border:1px solid black;
 }
