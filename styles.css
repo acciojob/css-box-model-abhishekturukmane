@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.content{
+	border:1px solid black;
+	width:300px;
+	
+}
+.padding{
+	background:lightblue;
+	padding:50px;
+}
+.border{
+	background:blue;
+	border:15px solid blue;
+	margin:20px;
+}
+.margin{
+	border:1px solid black;
+}
